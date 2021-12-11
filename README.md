@@ -1,6 +1,6 @@
 # pets_app
 
-A new Flutter project.
+A new Flutter project to deal with http lib using json file to build visual interface.
 
 ## Getting Started
 
